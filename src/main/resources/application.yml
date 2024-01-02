@@ -12,6 +12,10 @@ spring:
     username: root
     password: 1234
 
+  data:
+    redis:
+      port: 63799
+
 logging:
   level:
     org:
